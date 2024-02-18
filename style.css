@@ -1,0 +1,23 @@
+.heading
+{
+   font-size: 23px;
+   width: 100%;
+   margin: 0px;
+}
+.heading1
+{
+   font-size: 23px;
+   width: 100%;
+   margin: 0px;
+}
+.heading2
+{
+   font-size: 23px;
+   margin: 0px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 30px;
+    margin-left: 0px;
+}
